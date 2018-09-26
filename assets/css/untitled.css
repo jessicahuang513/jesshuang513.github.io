@@ -57,3 +57,38 @@ body {
   background-color: #fff;
 }
 
+.page-footer .social-icons a {
+  font-size: 22px;
+  margin: 0 3px;
+  color: #fff;
+  border: 1px solid;
+  opacity: .75;
+  border-radius: 50%;
+  width: 50px;
+  display: inline-block;
+  height: 50px;
+  text-align: center;
+  background-color: #c5c9d2;
+  line-height: 50px;
+}
+
+.portfolio-block.cv .group .organization {
+  font-size: .85em;
+  background-color: #6C5B7B;
+  display: inline-block;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 2em;
+}
+
+.portfolio-info-card.contact-info .icon {
+  font-size: 1.3em;
+  color: #F67280;
+  position: relative;
+  bottom: 4px;
+}
+
+.portfolio-block.cv .education.group .organization {
+  background-color: #355C7D;
+}
+
