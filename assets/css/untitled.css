@@ -74,7 +74,7 @@ body {
 
 .portfolio-block.cv .group .organization {
   font-size: .85em;
-  background-color: #6C5B7B;
+  background-color: #c06c84;
   display: inline-block;
   color: #fff;
   padding: 2px 8px;
@@ -83,12 +83,12 @@ body {
 
 .portfolio-info-card.contact-info .icon {
   font-size: 1.3em;
-  color: #F67280;
+  color: #c06c84;
   position: relative;
   bottom: 4px;
 }
 
 .portfolio-block.cv .education.group .organization {
-  background-color: #355C7D;
+  background-color: #c06c84;
 }
 
